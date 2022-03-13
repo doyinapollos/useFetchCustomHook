@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useFetchCustomHook/static/css/main.0789bc56.css",
+    "main.js": "/useFetchCustomHook/static/js/main.a5ebdb0b.js",
+    "index.html": "/useFetchCustomHook/index.html",
+    "main.0789bc56.css.map": "/useFetchCustomHook/static/css/main.0789bc56.css.map",
+    "main.a5ebdb0b.js.map": "/useFetchCustomHook/static/js/main.a5ebdb0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0789bc56.css",
+    "static/js/main.a5ebdb0b.js"
+  ]
+}
