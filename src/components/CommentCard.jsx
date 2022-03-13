@@ -22,8 +22,10 @@ useEffect(() => {
       <div className='comment'>
         <div className='comment--div'>
             {comments && comments.map((comment) => (
-                <div key={comment.id}>
-                    <p>Name: {comment.name}.... Email: {comment.email}</p>
+                <div className='commt' key={comment.id} >
+                    <span className='commt--span'>Name: {comment.name}</span><br />
+                    <span className='commt--span'>Comment: {comment.body}</span><br />
+                    <span className='commt--span'>Email: {comment.email}</span>
                 </div>
 
             ))}
