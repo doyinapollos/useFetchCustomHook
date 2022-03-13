@@ -10,7 +10,7 @@ export default function Card(props) {
                 <Link to={`/post/${props.id}`}>
                     <div className="card">
                         <div className="card--img--div">
-                        { /*<img className="card--img" src={props.img} alt="" /> */}
+                        <img className="card--img" src="https://apilist.fun/images/social/api/jsonplaceholder.png" alt="" /> 
                         </div>
                         <span className="card--name">{props.title}</span>
                         { /*<span className="card--dsc">{props.dsc}</span> */}
